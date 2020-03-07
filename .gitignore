@@ -1,0 +1,10 @@
+.idea
+.idea/.gitignore
+.idea/DecisionTrees.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/rSettings.xml
+venv/
+Decision_Tree_Regression/regression_template.py
+Decision_Tree_Regression/decision_tree_regression.py
